@@ -1,0 +1,6 @@
+[OUTPUT] Process 0: Value in local counter = 50
+[OUTPUT] Process 1: Value in local counter = 0
+[OUTPUT] Process 2: Value in local counter = 10
+[OUTPUT] Process 3: Value in local counter = 20
+[OUTPUT] Process 4: Value in local counter = 30
+[OUTPUT] Process 5: Value in local counter = 40

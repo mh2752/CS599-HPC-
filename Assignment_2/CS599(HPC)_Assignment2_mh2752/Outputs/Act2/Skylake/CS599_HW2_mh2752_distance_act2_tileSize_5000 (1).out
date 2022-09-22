@@ -1,0 +1,12 @@
+Supplied command line arguments: 
+
+	Number of lines (N): 100000, 
+	Dimensionality: 90, 
+	Block size: 5000, 
+	Num of Processes: 20, 
+	Filename: MSD_year_prediction_normalize_0_1_100k.txt
+
+
+	Sum of all local distances = 455386000.680184
+
+	 Total time (seconds) to calculate and populate local distance matrices: 49.536683

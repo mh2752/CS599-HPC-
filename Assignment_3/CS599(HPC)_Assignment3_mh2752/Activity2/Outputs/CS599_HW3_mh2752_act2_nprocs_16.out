@@ -1,0 +1,6 @@
+
+		[Process 0] Global sum before sorting is 231346601181947
+
+		[Process 0] Global sum after sorting is 231346601181947
+
+	 nprocs = 16, total time (s): 32.684274, distribution time (s): 2.050252, sorting time (s): 30.399434 
